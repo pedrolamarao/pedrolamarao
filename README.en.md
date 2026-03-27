@@ -4,9 +4,9 @@
 
 Welcome to my personal space!
 
-Here you will find, mainly, small study projects, each dedicated to a specific technique.
+To interact with me professionally, find me on [Linked In](https://www.linkedin.com/in/pedrolamarao/).
 
-Find me on [Linked In](https://www.linkedin.com/in/pedrolamarao/).
+Here you will find, mainly, small study projects, each dedicated to a specific technique.
 
 ### Studies
 

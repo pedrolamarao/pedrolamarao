@@ -4,9 +4,9 @@
 
 Seja bem vindo ao meu ao meu espaço pessoal!
 
-Aqui você encontrará, principalmente, pequenos projetos de estudo pessoal, cada um dedicado a uma técnica específica.
+Para interagir comigo profissionalmente, me encontre no [Linked In](https://www.linkedin.com/in/pedrolamarao/).
 
-Me encontre no [Linked In](https://www.linkedin.com/in/pedrolamarao/).
+Aqui você encontrará, principalmente, pequenos projetos de estudo pessoal, cada um dedicado a uma técnica específica.
 
 ### Estudos
 

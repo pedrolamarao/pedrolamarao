@@ -6,6 +6,8 @@ Seja bem vindo ao meu ao meu espaço pessoal!
 
 Aqui você encontrará, principalmente, pequenos projetos de estudo pessoal, cada um dedicado a uma técnica específica.
 
+Me encontre no [Linked In](https://www.linkedin.com/in/pedrolamarao/).
+
 ### Estudos
 
 [Compose Multiplatform](https://github.com/pedrolamarao?tab=repositories&q=%22study-%22+%22-compose%22)

@@ -1,12 +1,12 @@
 ## Pedro Lamarão
 
-[en](README.en.md)
+[pt](README.md)
 
-Seja bem vindo ao meu ao meu espaço pessoal!
+Welcome to my personal space!
 
-Aqui você encontrará, principalmente, pequenos projetos de estudo pessoal, cada um dedicado a uma técnica específica.
+Here you will find, mainly, small study projects, each dedicated to a specific technique.
 
-### Estudos
+### Studies
 
 [Compose Multiplatform](https://github.com/pedrolamarao?tab=repositories&q=%22study-%22+%22-compose%22)
 

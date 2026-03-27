@@ -14,4 +14,6 @@ Aqui você encontrará, principalmente, pequenos projetos de estudo pessoal, cad
 
 [Go (lang)](https://github.com/pedrolamarao?tab=repositories&q=%22study-%22+%22-go%22)
 
+[gRPC](https://github.com/pedrolamarao?tab=repositories&q=%22study-%22+%22-grpc%22)
+
 [Spring Framework](https://github.com/pedrolamarao?tab=repositories&q=%22study-%22+%22-spring%22)
